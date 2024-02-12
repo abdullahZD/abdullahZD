@@ -13,8 +13,12 @@
 
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahZD&show_icons=true&count_private=true)
 
-## 📫 Contact
+## Contact
 
-- Email: abdullahmohamedhz@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/abdallah-mohamed-374784226/)
+[<img align="left" alt="Email" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:abdullahmohamedhz@gmail.com)
+[<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/abdallah-mohamed-374784226/)
+
+
+
+
 
