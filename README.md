@@ -12,7 +12,9 @@
 - [Fitness Tracking API](https://github.com/abdullahZD/Fitness-Tracking) - Django REST framework for fitness tracking.
 - [E-Commerce Website](https://github.com/abdullahZD/E-Commerce) - Django-based E-commerce website.
 
+## 📄 My CV
 
+[Download CV (PDF)](https://github.com/abdullahZD/abdullahZD/blob/main/Abdullah%20Zidan.pdf)
 
 ## Contact
 
