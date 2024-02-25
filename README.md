@@ -1,6 +1,6 @@
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Abdallah%20Mohamed-LinkedIn-0077b5)](https://www.linkedin.com/in/abdallah-mohamed-374784226/)
+[![LinkedIn](https://img.shields.io/badge/Abdallah%20Mohamed-LinkedIn-0077b5)](https://www.linkedin.com/in/abdullah-mohamed-5065972b6/)
 [![GitHub](https://img.shields.io/badge/abdullahZD-GitHub-2b3137)](https://github.com/abdullahZD/)
 [![Download CV](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/abdullahZD/abdullahZD/blob/main/Abdullah%20Zidan%20-%20Django%20Developer.pdf)
 [![Email](https://img.shields.io/badge/Email-abdullahmohamedhz%40gmail.com-red)](mailto:abdullahmohamedhz@gmail.com)
